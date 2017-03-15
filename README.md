@@ -1,2 +1,1 @@
-# tugas1
-uud
+#legal retrieval
